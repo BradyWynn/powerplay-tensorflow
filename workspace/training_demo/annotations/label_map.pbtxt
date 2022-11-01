@@ -1,0 +1,45 @@
+item {
+    id: 1
+    name: 'Red_1'
+}
+
+item {
+    id: 2
+    name: 'Red_2'
+}
+item {
+    id: 3
+    name: 'Red_3'
+}
+
+item {
+    id: 4
+    name: 'Red_4'
+}
+item {
+    id: 5
+    name: 'Red_5'
+}
+
+item {
+    id: 6
+    name: 'Blue_1'
+}
+item {
+    id: 7
+    name: 'Blue_2'
+}
+
+item {
+    id: 8
+    name: 'Blue_3'
+}
+item {
+    id: 9
+    name: 'Blue_4'
+}
+
+item {
+    id: 10
+    name: 'Blue_5'
+}
