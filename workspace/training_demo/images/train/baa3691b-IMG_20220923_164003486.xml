@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <annotation>
 <folder>images</folder>
 <filename>baa3691b-IMG_20220923_164003486.jpg</filename>
@@ -14,8 +13,8 @@
 <name>Label Studio</name>
 </owner>
 <size>
-<width>4000</width>
-<height>3000</height>
+<width>300</width>
+<height>300</height>
 <depth>3</depth>
 </size>
 <segmented>0</segmented>
@@ -25,10 +24,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-<xmin>805</xmin>
-<ymin>312</ymin>
-<xmax>1264</xmax>
-<ymax>937</ymax>
+<xmin>60</xmin>
+<ymin>31</ymin>
+<xmax>94</xmax>
+<ymax>93</ymax>
 </bndbox>
 </object>
 <object>
@@ -37,10 +36,10 @@
 <truncated>0</truncated>
 <difficult>0</difficult>
 <bndbox>
-<xmin>1611</xmin>
-<ymin>535</ymin>
-<xmax>2776</xmax>
-<ymax>2952</ymax>
+<xmin>120</xmin>
+<ymin>53</ymin>
+<xmax>208</xmax>
+<ymax>295</ymax>
 </bndbox>
 </object>
 </annotation>
